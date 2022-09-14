@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794881953501",
+    "project_id": "translateyapimi",
+    "storage_bucket": "translateyapimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794881953501:android:261a6df868ef4e64fb1534",
+        "android_client_info": {
+          "package_name": "com.example.translateyapimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794881953501-573h6h0tbrc2ug4ku1phpvq0gli3jnqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XVOkFmX9i9tKHWxdXIJ9PtvV44uns_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794881953501-573h6h0tbrc2ug4ku1phpvq0gli3jnqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
